@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "servor --reload",
+    "build": "echo 'Build successful'"
+  },
+  "dependencies": {
+    "servor": "^4.0.2"
+  }
+}
